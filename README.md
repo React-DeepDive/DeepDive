@@ -59,16 +59,19 @@
 <td align="center"><img src="https://avatars.githubusercontent.com/u/116702892?v=4" width="120" /></td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/106851561?v=4" width="120" /></td>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/97022695?v=4" width="120" /></td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/99706343?v=4" width="120" /></td>
 </tr>
 <tr>
 <th align="center">박진수</th>
 <th align="center">최훈오</th>
 <th align="center">진현주</th>
+<th align="center">정현아</th>
 </tr>
 <tr>
 <td align="center" width="150"><a href="https://github.com/jinsupark4255">@jinsupark4255</a></td>
 <td align="center" width="150"><a href="https://github.com/Whoknow77">@Whoknow77</a></td>
 <td align="center" width="150"><a href="https://github.com/realzu">@realzu</a></td>
+<td align="center" width="150"><a href="https://github.com/hyunah-jung95">@hyunah-jung95</a></td>
 </tr>
 </tbody>
 </table>
