@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐻 [모던 리액트 딥 다이브] 스터디 🐻
+# 🐻 [모던 리액트 Deep Dive] 스터디 🐻
 
 | <img src="./assets/deepdive.jpeg" width="250px" /> |
 | ------------------------------------------------- |
