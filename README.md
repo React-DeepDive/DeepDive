@@ -2,7 +2,7 @@
 
 # 🐻 [모던 리액트 딥 다이브] 스터디 🐻
 
-| <img src="https://github.com/user-attachments/assets/ba8c0cef-a2cc-4826-b9e5-5b690504104a" width="250px" /> |
+| <img src="./assets/deepdive.jpeg" width="250px" /> |
 | ------------------------------------------------- |
 
 <br />
