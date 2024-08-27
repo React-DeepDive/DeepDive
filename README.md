@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐻 [모던 리액트 딥 다이브] 스터디 🐻
+# 🐻 [모던 리액트 Deep Dive] 스터디 🐻
 
 | <img src="./assets/deepdive.jpeg" width="250px" /> |
 | ------------------------------------------------- |
@@ -56,18 +56,37 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/116702892?v=4" width="120" /></td>
-<td align="center"><img src="https://avatars.githubusercontent.com/u/106851561?v=4" width="120" /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/116702892?v=4" width="120" /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/106851561?v=4" width="120" /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/97022695?v=4" width="120" /></td>
 </tr>
 <tr>
-<th align="center">박진수</th>
-<th align="center">최훈오</th>
+    <th align="center">박진수</th>
+    <th align="center">최훈오</th>
+    <th align="center">진현주</th>
 </tr>
 <tr>
-<td align="center" width="150"><a href="https://github.com/jinsupark4255">@jinsupark4255</a></td>
-<td align="center" width="150"><a href="https://github.com/Whoknow77">@Whoknow77</a></td>
+    <td align="center" width="150"><a href="https://github.com/jinsupark4255">@jinsupark4255</a></td>
+    <td align="center" width="150"><a href="https://github.com/Whoknow77">@Whoknow77</a></td>
+    <td align="center" width="150"><a href="https://github.com/realzu">@realzu</a></td>
+</tr>
+<tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/99706343?v=4" width="120" /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/49507512?v=4" width="120" /></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/79708688?v=4" width="120" /></td>
+</tr>
+<tr>
+    <th align="center">정현아</th>
+    <th align="center">김경민</th>
+    <th align="center">이무성</th>
+</tr>
+<tr>
+    <td align="center" width="150"><a href="https://github.com/hyunah-jung95">@hyunah-jung95</a></td>
+    <td align="center" width="150"><a href="https://github.com/wathertheqlant">@wathertheqlant</a></td>
+    <td align="center" width="150"><a href="https://github.com/dlantjdgkgk">@dlantjdgkgk</a></td>
 </tr>
 </tbody>
 </table>
+
 
 </div>
