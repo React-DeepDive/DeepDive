@@ -43,8 +43,18 @@
 <td align="center" colspan="5">1주차</td>
 </tr>
 <tr>
-<td align="center">날짜 미정</td>
+<td align="center">8/29(목)</td>
 <td colspan="4">OT</td>
+</tr>
+<tr>
+<td align="center" colspan="5">2주차</td>
+</tr>
+<tr>
+<td align="center">9/5(목)</td>
+<th align="left">[1장(1/2)] 리액트 개발을 위해 꼭 알아야 할 자바스크립트</th>
+<td><a href="https://github.com/React-DeepDive/DeepDive/tree/main/1%EC%9E%A5">요약</a></td>
+<td><a href="https://github.com/React-DeepDive/DeepDive/issues?q=is%3Aissue+is%3Aclosed+label%3A1%EC%9E%A5">문제</a></td>
+<td>진현주</td>
 </tr>
 </tbody>
 </table>
