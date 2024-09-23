@@ -56,6 +56,20 @@
 <td><a href="https://github.com/React-DeepDive/DeepDive/issues?q=is%3Aissue+is%3Aclosed+label%3A1%EC%9E%A5">문제</a></td>
 <td>진현주</td>
 </tr>
+<tr>
+<td align="center">9/19(목)</td>
+<th align="left">[1장(2/2)] 리액트 개발을 위해 꼭 알아야 할 자바스크립트</th>
+<td><a href="https://github.com/React-DeepDive/DeepDive/tree/main/1%EC%9E%A5">요약</a></td>
+<td><a href="https://github.com/React-DeepDive/DeepDive/issues?q=is%3Aissue+is%3Aclosed+label%3A1%EC%9E%A5">문제</a></td>
+<td>박진수</td>
+</tr>
+<tr>
+<td align="center">9/26(목)</td>
+<th align="left">[2장(1/2)] 리액트 핵심 요소 깊게 살펴보기</th>
+<td><a href="https://github.com/React-DeepDive/DeepDive/tree/main/2%EC%9E%A5">요약</a></td>
+<td><a href="https://github.com/React-DeepDive/DeepDive/issues?q=is%3Aissue+is%3Aclosed+label%3A2%EC%9E%A5">문제</a></td>
+<td>미정</td>
+</tr>
 </tbody>
 </table>
 
